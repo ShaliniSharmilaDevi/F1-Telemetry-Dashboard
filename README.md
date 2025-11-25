@@ -20,14 +20,19 @@ It loads sessions safely, extracts fastest or selected laps, interpolates teleme
 * Raw telemetry preview
 
 ---
-
 🛠 **Tech Stack**
 
-* **Python 3.10+**
-* **Streamlit**
-* **FastF1**
-* **Pandas / NumPy**
-* **Plotly**
+
+streamlit>=1.32.0
+
+fastf1>=3.3.6
+
+pandas>=2.1.0
+
+numpy>=1.25.0
+
+plotly>=5.18.0
+
 
 ---
 
